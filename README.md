@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...--->
-
+## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Akshat5249)](https://github.com/Akshat5249/github-profile-trophy)
 <!---
 Akshat5249/Akshat5249 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
