@@ -3,7 +3,7 @@
 - 💻 I'm passionate about learning and exploring the endless possibilities of coding.
 - 🚀 Newbie GitHubber diving into the world of code, one commit at a time!
 - 🌱 Always open to new opportunities and eager to grow in the tech community. 
-- 📫 You can reach me on Lnkedin <a href="www.linkedin.com/in/akshat-tayal-8b6225296"> **@Akshattayal** 
+- 📫 You can reach me on Linkedin <a href="www.linkedin.com/in/akshat-tayal-8b6225296"> **@Akshattayal** 
 - 😄 Pronouns: He/His
 
 <!---
