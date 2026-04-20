@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=AI+Systems+Builder;LLMs+%7C+Backend+%7C+Cloud;Real-time+ML+%26+Scalable+Architectures" />
 </p>
 
+<p align="center">
+  <a href="https://akdevvv.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 ---
 🔭 I’m currently building AI Agents, LLM-powered systems & scalable cloud-based solutions  <br>👯 I’m looking to collaborate on impactful AI, ML & distributed system projects  <br>🤝 I’m looking for help with production-grade AI deployment & system scalability  <br>🌱 I’m currently learning Agentic AI, advanced system design & cloud infrastructure (AWS, OCI)  <br>💬 Ask me about AI/ML, LLMs, backend systems, and real-time pipelines  <br>⚡ Fun fact: I’ve optimized neural networks, built real-time ML systems & won national-level hackathons 🚀  
 
